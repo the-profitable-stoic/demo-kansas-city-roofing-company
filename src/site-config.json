@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Kansas City Roofing Company",
+    "phone": "+18162690058",
+    "category": "roofer",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Trusted Roofing Experts",
+      "heroSubline": "Protecting Kansas City homes, one roof at a time. Expert repairs, replacements, and inspections.",
+      "aboutTitle": "Decades of Kansas City Roofing Expertise",
+      "aboutText": [
+        "Kansas City Roofing Company started with a simple mission: to provide honest, reliable roofing services to our neighbors. We're not just roofers; we're Kansas Citians, deeply invested in the well-being of our community.",
+        "Our approach is straightforward: assess the problem, explain the solution clearly, and execute the work with precision and care. We believe in transparent communication and doing the job right the first time, every time.",
+        "From Brookside bungalows to Northland developments, we're committed to serving the entire Kansas City metro area. We actively support local initiatives and strive to be a positive force in the community we call home."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Kansas City's unique climate and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the best materials to ensure lasting protection against the elements."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, communicate clearly, and deliver exceptional results."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises – just honest, upfront pricing you can trust."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Roofing Estimate Today!",
+      "ctaSubline": "Protect your home with the best roofing services in Kansas City. Contact us now for a free, no-obligation quote."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repairs to stop leaks and protect your home.",
+        "description": "From minor leaks to storm damage, Kansas City Roofing Company provides comprehensive roof repair services. We understand the challenges posed by Kansas City's harsh weather, including ice storms, severe thunderstorms, and extreme temperature fluctuations. Our experienced technicians quickly diagnose the problem and implement effective solutions to prevent further damage. \n\nWe handle all types of roof repairs, including shingle replacement, flashing repair, leak detection, and storm damage restoration. We use high-quality materials and proven techniques to ensure lasting results. Whether you have an older home in Brookside or a newer home in the Northland, we have the expertise to address your specific roofing needs. We prioritize prompt response times and clear communication, ensuring you're informed every step of the way.\n\nIgnoring a small roof leak can lead to significant water damage, mold growth, and costly repairs down the road. Don't wait until it's too late. Contact Kansas City Roofing Company for a thorough roof inspection and professional repair services.",
+        "process": [
+          "Step 1: Thorough roof inspection to identify the source and extent of the damage.",
+          "Step 2: Detailed explanation of the repair options and associated costs.",
+          "Step 3: Expert repair using high-quality materials and proven techniques.",
+          "Step 4: Final inspection to ensure the repair is complete and effective."
+        ],
+        "benefits": [
+          "Prevent water damage",
+          "Extend roof lifespan",
+          "Restore curb appeal",
+          "Increase property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof repair?",
+            "answer": "Common signs include water stains on your ceiling, missing or damaged shingles, and visible leaks. If you suspect any roof damage, it's best to call us for an inspection."
+          },
+          {
+            "question": "How long does a typical roof repair take?",
+            "answer": "The duration of a roof repair depends on the extent of the damage. Minor repairs can often be completed in a day, while more extensive repairs may take longer."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we provide 24/7 emergency roof repair services to address urgent situations like severe leaks caused by storms."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your home with a durable, beautiful new roof.",
+        "description": "When roof repairs are no longer sufficient, a complete roof replacement is the most effective solution. Kansas City Roofing Company offers professional roof replacement services using a wide range of high-quality roofing materials, including asphalt shingles, metal roofing, and tile roofing. We understand the importance of choosing the right roofing system to match your home's style and protect it from Kansas City's unpredictable weather.\n\nOur experienced team handles every aspect of the roof replacement process, from removing the old roof to installing the new one with precision and care. We ensure proper ventilation, insulation, and flashing to maximize the lifespan of your new roof and protect your home from moisture damage. We also offer a variety of color and style options to enhance your home's curb appeal.\n\nWe work closely with you to select the best roofing system for your budget and aesthetic preferences. With our commitment to quality craftsmanship and customer satisfaction, you can trust Kansas City Roofing Company to deliver a roof replacement that will protect your home for years to come.",
+        "process": [
+          "Step 1: Thorough inspection to assess the condition of your existing roof.",
+          "Step 2: Consultation to discuss roofing material options and design preferences.",
+          "Step 3: Removal of the old roof and preparation of the roof deck.",
+          "Step 4: Installation of the new roofing system with expert craftsmanship."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Improved energy efficiency",
+          "Enhanced curb appeal",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "A typical roof replacement takes 3-5 days, depending on the size and complexity of the roof."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide range of roofing materials, including asphalt shingles, metal roofing, tile roofing, and more."
+          },
+          {
+            "question": "Do you offer financing options for roof replacements?",
+            "answer": "Yes, we offer flexible financing options to make roof replacements more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems early.",
+        "description": "Protect your investment with a professional roof inspection from Kansas City Roofing Company. Our certified inspectors conduct thorough assessments of your roof's condition, identifying potential problems such as leaks, damaged shingles, and structural issues. We understand the unique challenges that Kansas City's climate poses to roofs, including freeze-thaw cycles, hail storms, and high winds.\n\nOur detailed inspection reports provide you with a clear understanding of your roof's condition and recommendations for necessary repairs or maintenance. We use advanced technology, including drone inspections, to access hard-to-reach areas and provide accurate assessments. Whether you're buying a new home or simply want to ensure the longevity of your existing roof, a professional roof inspection is a smart investment.\n\nRegular roof inspections can help you identify and address minor problems before they escalate into costly repairs. Contact Kansas City Roofing Company to schedule your roof inspection today.",
+        "process": [
+          "Step 1: Visual inspection of the roof's exterior, including shingles, flashing, and gutters.",
+          "Step 2: Inspection of the roof's interior, including the attic and ceilings.",
+          "Step 3: Detailed report outlining the findings and recommendations.",
+          "Step 4: Consultation to discuss the report and answer any questions."
+        ],
+        "benefits": [
+          "Early problem detection",
+          "Prevent costly repairs",
+          "Extend roof lifespan",
+          "Ensure safety"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, and after any major storm."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "Our roof inspections include a thorough assessment of the roof's exterior and interior, as well as a detailed report outlining the findings and recommendations."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection varies depending on the size and complexity of the roof. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Protect your home from water damage with professional gutter services.",
+        "description": "Properly functioning gutters are essential for protecting your home from water damage. Kansas City Roofing Company offers comprehensive gutter services, including gutter installation, repair, and cleaning. We understand the importance of directing rainwater away from your foundation to prevent structural damage and erosion.\n\nWe install high-quality seamless gutters that are custom-fit to your home, ensuring optimal performance and a clean, attractive appearance. We also offer gutter repair services to address leaks, clogs, and other issues. Regular gutter cleaning is essential to prevent clogs and maintain proper water flow. Our experienced technicians safely and effectively remove leaves, debris, and other obstructions from your gutters.\n\nDon't let clogged or damaged gutters compromise your home's foundation. Contact Kansas City Roofing Company for professional gutter services.",
+        "process": [
+          "Step 1: Inspection of the existing gutter system to identify any issues.",
+          "Step 2: Recommendation of the appropriate gutter services.",
+          "Step 3: Installation, repair, or cleaning of the gutters.",
+          "Step 4: Final inspection to ensure proper functionality."
+        ],
+        "benefits": [
+          "Prevent water damage",
+          "Protect foundation",
+          "Maintain curb appeal",
+          "Extend roof lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, and more often if you have trees near your home."
+          },
+          {
+            "question": "What are the signs that my gutters need repair?",
+            "answer": "Signs that your gutters need repair include leaks, clogs, sagging, and rust."
+          },
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are custom-fit to your home, eliminating seams and reducing the risk of leaks."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Expert storm damage repair services to restore your roof after severe weather.",
+        "description": "Kansas City is no stranger to severe weather, including hailstorms, tornadoes, and high winds. Kansas City Roofing Company provides prompt and reliable storm damage repair services to restore your roof and protect your home. We understand the stress and disruption that storm damage can cause, and we're committed to providing fast, efficient service to get your life back to normal.\n\nOur experienced team assesses the extent of the damage and provides a comprehensive repair plan. We work with your insurance company to streamline the claims process and ensure you receive the coverage you deserve. From shingle replacement to complete roof replacement, we handle all types of storm damage repairs with expert craftsmanship and attention to detail.\n\nDon't let storm damage compromise the safety and integrity of your home. Contact Kansas City Roofing Company for immediate assistance.",
+        "process": [
+          "Step 1: Emergency assessment of the storm damage.",
+          "Step 2: Temporary repairs to prevent further damage.",
+          "Step 3: Detailed inspection and documentation of the damage for insurance claims.",
+          "Step 4: Comprehensive repair or replacement of the damaged roofing components."
+        ],
+        "benefits": [
+          "Restore roof integrity",
+          "Prevent further damage",
+          "Insurance claim assistance",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What should I do immediately after my roof is damaged in a storm?",
+            "answer": "Contact Kansas City Roofing Company immediately for emergency assessment and temporary repairs. Also, document the damage with photos and videos for insurance purposes."
+          },
+          {
+            "question": "Will you work with my insurance company?",
+            "answer": "Yes, we have extensive experience working with insurance companies and can help you navigate the claims process."
+          },
+          {
+            "question": "How long will it take to repair my roof after a storm?",
+            "answer": "The duration of the repair depends on the extent of the damage. We'll provide you with a realistic timeline after assessing the damage."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Reliable roofing solutions for Kansas City businesses.",
+        "description": "Kansas City Roofing Company provides comprehensive commercial roofing services for businesses throughout the Kansas City metro area. We understand the unique challenges of commercial roofing, including flat roofs, complex drainage systems, and stringent building codes. Our experienced team has the expertise to handle all types of commercial roofing projects, from new construction to repairs and replacements.\n\nWe offer a wide range of commercial roofing materials, including TPO, EPDM, and modified bitumen. We work closely with business owners and property managers to select the best roofing system for their budget and operational needs. Our commitment to quality craftsmanship and customer satisfaction ensures that your commercial roof will provide lasting protection for your business.\n\nProtect your business with a reliable commercial roof from Kansas City Roofing Company.",
+        "process": [
+          "Step 1: Thorough assessment of the existing commercial roof.",
+          "Step 2: Consultation to discuss roofing material options and budget considerations.",
+          "Step 3: Expert installation or repair of the commercial roofing system.",
+          "Step 4: Ongoing maintenance and support to ensure long-term performance."
+        ],
+        "benefits": [
+          "Protect business assets",
+          "Improve energy efficiency",
+          "Reduce operating costs",
+          "Ensure code compliance"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you offer?",
+            "answer": "We offer a wide range of commercial roofing systems, including TPO, EPDM, modified bitumen, and metal roofing."
+          },
+          {
+            "question": "Do you offer preventative maintenance programs for commercial roofs?",
+            "answer": "Yes, we offer customized preventative maintenance programs to extend the lifespan of your commercial roof."
+          },
+          {
+            "question": "Are you licensed and insured to perform commercial roofing work?",
+            "answer": "Yes, we are fully licensed and insured to perform commercial roofing work in Kansas City."
+          }
+        ]
+      },
+      {
+        "slug": "attic-insulation",
+        "name": "Attic Insulation",
+        "shortDescription": "Improve energy efficiency and comfort with expert attic insulation services.",
+        "description": "Proper attic insulation is crucial for maintaining a comfortable indoor temperature and reducing energy costs. Kansas City Roofing Company offers professional attic insulation services to help homeowners in the Kansas City area save money and improve their home's energy efficiency. We understand the importance of proper insulation levels to combat Kansas City's extreme temperatures, both hot and cold.\n\nWe offer a variety of insulation options, including blown-in fiberglass, cellulose, and spray foam. Our experienced technicians will assess your attic's current insulation levels and recommend the best solution for your needs. We ensure proper installation to maximize energy savings and prevent moisture damage. Upgrading your attic insulation can significantly reduce your heating and cooling bills and improve the overall comfort of your home.\n\nInvest in your home's energy efficiency with expert attic insulation services from Kansas City Roofing Company.",
+        "process": [
+          "Step 1: Assessment of the existing attic insulation levels.",
+          "Step 2: Recommendation of the appropriate insulation type and R-value.",
+          "Step 3: Professional installation of the new attic insulation.",
+          "Step 4: Sealing of air leaks to maximize energy efficiency."
+        ],
+        "benefits": [
+          "Reduce energy costs",
+          "Improve home comfort",
+          "Prevent ice dams",
+          "Extend HVAC lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What is R-value?",
+            "answer": "R-value is a measure of thermal resistance. The higher the R-value, the better the insulation's ability to resist heat flow."
+          },
+          {
+            "question": "What type of insulation is best for my attic?",
+            "answer": "The best type of insulation for your attic depends on several factors, including your budget, climate, and existing insulation levels. We can help you choose the right insulation for your needs."
+          },
+          {
+            "question": "How much does attic insulation cost?",
+            "answer": "The cost of attic insulation varies depending on the size of your attic and the type of insulation you choose. Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Kansas City Roofing Company is proud to offer our expert roofing services to the residents of Overland Park, Missouri. We understand the unique roofing needs of this vibrant community, known for its established suburbs built primarily between the 1970s and 1990s. From minor repairs to complete roof replacements, we're equipped to handle any project, big or small.\n\nOverland Park homeowners know that Kansas City winters can be harsh, often bringing ice storms and heavy snowfall. Our team specializes in weather-resistant roofing solutions that can withstand these challenging conditions, providing lasting protection for your home. We're committed to delivering exceptional quality and customer satisfaction in every job we undertake.",
+        "localContext": "Overland Park's housing stock consists largely of single-family homes built in the latter half of the 20th century, requiring regular maintenance and occasional roof replacements due to age and weather exposure.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Kansas City Roofing Company is your trusted roofing partner in Olathe, Missouri. We're dedicated to providing top-quality roofing services to this growing community, characterized by its family-friendly developments constructed primarily between the 1980s and 2000s. Whether you need a routine inspection, emergency repairs, or a complete roof overhaul, our experienced team is here to help.\n\nOlathe homeowners understand the importance of a reliable roof to protect their families and investments. With its cold winters and potential for ice storms, Olathe requires roofing systems that can withstand the elements. Kansas City Roofing Company offers a wide range of durable and energy-efficient roofing options to meet your specific needs and budget. We pride ourselves on our commitment to excellence and customer satisfaction.",
+        "localContext": "Olathe's residential areas are filled with relatively newer homes, often requiring specialized roofing techniques and materials to ensure long-term performance and curb appeal.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Gardner",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Kansas City Roofing Company is pleased to serve the residents of Lee's Summit, Missouri, with our comprehensive roofing services. This community, known for its established family homes built primarily between the 1970s and 1990s, deserves the highest quality roofing solutions and exceptional customer service. From minor leaks to complete roof replacements, we're equipped to handle any project with professionalism and expertise.\n\nLee's Summit homeowners understand the importance of a well-maintained roof to protect their homes from the elements. With its cold winters and potential for ice storms, Lee's Summit requires roofing systems that can withstand harsh weather conditions. Kansas City Roofing Company offers a wide range of durable and energy-efficient roofing options to meet your specific needs and budget. We pride ourselves on our commitment to excellence and customer satisfaction.",
+        "localContext": "Lee's Summit's mature neighborhoods often feature homes with aging roofs, making regular inspections and timely repairs crucial to prevent costly damage.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Kansas City Roofing Company is proud to call Kansas City, Missouri home, and we're dedicated to providing our neighbors with the best roofing services in the metro area. From the historic homes in Brookside to the modern developments downtown, we have the experience and expertise to handle any roofing project, big or small.\n\nWe understand the unique challenges that Kansas City weather can pose to your roof. Our team is skilled in repairing and replacing roofs damaged by wind, hail, and ice. We're committed to using only the highest quality materials and providing exceptional workmanship to ensure your roof protects your home for years to come.",
+        "localContext": "Kansas City's diverse architecture requires a roofing company with a broad range of skills and knowledge to handle various styles and materials effectively.",
+        "nearbyAreas": [
+          "Independence",
+          "Overland Park",
+          "Gladstone"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Kansas City Roofing Company extends its expert roofing services to Independence, Missouri, a city rich in history and community spirit. We're committed to providing Independence homeowners with reliable and affordable roofing solutions, whether it's a minor repair, a complete replacement, or a routine inspection.\n\nIndependence experiences the full range of Kansas City weather, from scorching summers to freezing winters. Our team understands the importance of a durable and well-maintained roof to protect your home from the elements. We offer a variety of roofing materials and styles to match your home's architecture and your personal preferences.",
+        "localContext": "Independence features a mix of older and newer homes, requiring roofing contractors to be proficient in handling various roofing types and repair needs.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Blue Springs",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Kansas City Roofing Company is a trusted provider of roofing services in Blue Springs, Missouri. We're dedicated to providing homeowners in Blue Springs with top-quality workmanship, reliable service, and competitive pricing. Whether you need a new roof, repairs to an existing one, or a routine inspection, we're here to help.\n\nBlue Springs homeowners know that a strong and reliable roof is essential to protect their homes from the elements. Our team is experienced in handling all types of roofing projects, and we're committed to providing you with the best possible service. We use only the highest quality materials and follow industry best practices to ensure your roof is built to last.",
+        "localContext": "Blue Springs, with its family-oriented community, values reliable and trustworthy contractors for essential home services like roofing.",
+        "nearbyAreas": [
+          "Independence",
+          "Lee's Summit",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Gladstone",
+        "slug": "gladstone-mo",
+        "state": "MO",
+        "content": "Kansas City Roofing Company is proud to offer its roofing services to the residents of Gladstone, Missouri. We understand the importance of a well-maintained roof in protecting your home and family. Our team is experienced in handling all types of roofing projects, from minor repairs to complete replacements.\n\nGladstone experiences the full spectrum of Kansas City weather, making it crucial to have a roof that can withstand the elements. We offer a variety of roofing materials and styles to suit your needs and budget. We're committed to providing you with the highest quality workmanship and exceptional customer service.",
+        "localContext": "Gladstone's residential neighborhoods benefit from having access to experienced roofing professionals who understand the specific challenges of local weather patterns.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Liberty",
+          "North Kansas City"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "Kansas City Roofing Company brings its expertise to Shawnee, Missouri, providing top-notch roofing services to homeowners throughout the area. We're committed to delivering reliable, affordable, and high-quality roofing solutions for all your needs, from minor repairs to full roof replacements.\n\nShawnee residents understand the importance of a durable roof to protect their homes from Kansas City's unpredictable weather. Our team is skilled in handling all types of roofing materials and styles, ensuring your roof is both aesthetically pleasing and structurally sound. We prioritize customer satisfaction and strive to exceed your expectations on every project.",
+        "localContext": "Shawnee's community values quality craftsmanship and reliable service when it comes to maintaining their homes, including their roofs.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Overland Park",
+          "Kansas City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Kansas City Roofing Company was fantastic! We had a leak in our Waldo home after a bad storm, and they came out quickly to assess the damage and provide a fair quote. The repair was done efficiently and professionally. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "I hired Kansas City Roofing Company for gutter cleaning, and they did a thorough job. They were on time, courteous, and left my property clean. My only minor complaint is that scheduling took a little longer than I expected.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We recently had our roof replaced by Kansas City Roofing Company, and we couldn't be happier with the results. The team was professional, efficient, and the new roof looks great. They even helped us choose the right shingles to match our Brookside home's style!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a severe hailstorm, our roof was badly damaged. Kansas City Roofing Company responded quickly and helped us navigate the insurance claim process. The repairs were done promptly and professionally. I'm very grateful for their assistance.",
+        "date": "2024-05-10"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Roof Inspection",
+        "text": "I needed a roof inspection before buying a house in Overland Park. Kansas City Roofing Company provided a detailed report that helped me make an informed decision. The inspector was knowledgeable and answered all my questions. Would use again.",
+        "date": "2024-02-28"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Commercial Roofing",
+        "text": "Kansas City Roofing has been great to work with for our business. They are responsive, professional, and a pleasure to do business with. Their crew got the job done quickly, and the new roof looks great!",
+        "date": "2023-10-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Kansas City Roofing | Local Experts",
+        "description": "Trusted roofers in Kansas City, MO. Repairs, replacement, inspections. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Kansas City Roofing Company",
+        "description": "Learn about Kansas City Roofing Company's values, experience, and commitment to the community."
+      },
+      "services": {
+        "title": "Roofing Services | Kansas City, MO",
+        "description": "Comprehensive roofing services in Kansas City. Repair, replacement, gutters, and more."
+      },
+      "contact": {
+        "title": "Contact Us | Kansas City Roofing",
+        "description": "Get in touch with Kansas City Roofing Company for a free quote or to schedule a service."
+      },
+      "reviews": {
+        "title": "Reviews | Kansas City Roofing",
+        "description": "See what our customers are saying about Kansas City Roofing Company's services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Kansas City Roofing",
+        "description": "Kansas City Roofing provides services to Overland Park, Olathe, Lee's Summit and the entire metro."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp",
+      "attic-insulation": "/images/service-attic-insulation.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "attic-insulation": {
+        "src": "/images/service-attic-insulation.webp",
+        "srcset": "/images/service-attic-insulation-400w.webp 400w, /images/service-attic-insulation-800w.webp 800w, /images/service-attic-insulation-1200w.webp 1200w, /images/service-attic-insulation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
